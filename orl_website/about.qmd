@@ -1,5 +1,11 @@
 ---
-title: "About"
+title: "Something about me..."
 ---
+<p>
+Love music and playing drums... good for stress releasing ;)
+</p>
+<p>
+<img src="img/mykit.png">
+</p>
 
-Nothing to see here :)
+<p>Else, nothing to see here :) </p>
