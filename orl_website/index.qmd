@@ -1,0 +1,12 @@
+---
+title: "ORL website"
+---
+<p>
+Welcome to my site. Here you'll find some interesting stuff about myself... or maybe not :)
+
+Have fun!
+</p>
+<p>
+<img src="img/vancity_pic.png"/>
+</p>
+**This image was generated with ChatGPT
